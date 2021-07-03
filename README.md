@@ -18,5 +18,8 @@ Le lien de  datasets (200):
 - https://github.com/clovaai/cord
 
 
+## livrables 
+
+Mettre en application permettant de détecter le montant TTC
 
 
